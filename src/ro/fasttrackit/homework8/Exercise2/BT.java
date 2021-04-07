@@ -1,7 +1,7 @@
 package ro.fasttrackit.homework8.Exercise2;
 
 public class BT implements Credit {
-	private String company = "BT";
+	private final String company = "BT";
 	private String userName;
 	private int age;
 

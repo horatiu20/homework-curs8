@@ -1,7 +1,7 @@
 package ro.fasttrackit.homework8.Exercise2;
 
 public class ING implements Credit {
-	private String company = "ING";
+	private final String company = "ING";
 	private String userName;
 	private int age;
 
