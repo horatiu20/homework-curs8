@@ -11,6 +11,6 @@ public class Main {
 		System.out.println("Name: " + myStudent.getName());
 		System.out.println("Grade: " + myStudent.getGrade());
 
-		System.out.println("Average classroom grades is: " + myStudent.averageGrade());
+		System.out.println("Average classroom grades is: " + Student.averageGrade());
 	}
 }
